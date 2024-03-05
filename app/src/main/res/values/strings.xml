@@ -20,5 +20,6 @@
     <string name="_ln">ln</string>
     <string name="_pi">π</string>
     <string name="_proc">%</string>
+    <string name="_clear">Очистить</string>
 
 </resources>
